@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jan Wolanski]]></title>
         <description><![CDATA[Jan Wolanski]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jan-wolanski/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 12:21:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 12:30:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jan-wolanski/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flexible sheet camera concept could lead to bendable capture devices]]></title>
+            <description><![CDATA[<article><h1>Flexible sheet camera concept could lead to bendable capture devices</h1><p>Researchers at Columbia University are working to produce a flexible sheet camera with stretchable lenses. The program aims to create very thin, high resolution cameras that can be wrapped around surfaces like car panels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28d665a74281a756e23248a3973febeb2b6960e0.jpg"></article>]]></description>
+            <link>http://www.dpreview.com/news/6693381083/flexible-sheet-camera-concept-could-lead-to-bendable-capture-devices</link>
+            <guid isPermaLink="false">b416835b-fda9-41db-992f-5b09568d900e</guid>
+            <pubDate>Thu, 14 Apr 2016 12:30:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Встроенный шкаф]]></title>
             <description><![CDATA[<article><h1>Встроенный шкаф</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f80fde6-00ca-47ae-a989-dbe2e2bc6afb.jpg"></article>]]></description>
-            <link>undefined14f03111-c890-490d-b53a-e7acaa56c554/index.html</link>
+            <link>https://thegrid.ai/jan-wolanski/14f03111-c890-490d-b53a-e7acaa56c554/index.html</link>
             <guid isPermaLink="false">14f03111-c890-490d-b53a-e7acaa56c554</guid>
             <pubDate>Thu, 14 Apr 2016 12:21:38 GMT</pubDate>
         </item>
