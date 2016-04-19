@@ -1,6 +1,6 @@
 name: Jan Wolanski
 favicon: null
-layout_spectrum: 0.4606
+layout_spectrum: 0.97364
 typography_spectrum: 0.2715383640024811
 title: photographer Jan Wolanski blog
 cta:
@@ -22,8 +22,8 @@ color:
     - '#323444'
     - '#a69597'
     - '#0e1114'
-  brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.25
-  rhythmicContrast: 0.75
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
